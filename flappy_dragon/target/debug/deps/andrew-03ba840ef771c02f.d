@@ -1,0 +1,12 @@
+/home/ayaz/Rust-games/Rust-games/flappy_dragon/target/debug/deps/andrew-03ba840ef771c02f.rmeta: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/ayaz/Rust-games/Rust-games/flappy_dragon/target/debug/deps/libandrew-03ba840ef771c02f.rlib: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/ayaz/Rust-games/Rust-games/flappy_dragon/target/debug/deps/andrew-03ba840ef771c02f.d: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/lib.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/line.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/mod.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/shapes/rectangle.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/mod.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/andrew-0.3.1/src/text/fontconfig.rs:

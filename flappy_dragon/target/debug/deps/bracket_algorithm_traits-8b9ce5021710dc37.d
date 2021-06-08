@@ -1,0 +1,10 @@
+/home/ayaz/Rust-games/Rust-games/flappy_dragon/target/debug/deps/bracket_algorithm_traits-8b9ce5021710dc37.rmeta: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs
+
+/home/ayaz/Rust-games/Rust-games/flappy_dragon/target/debug/deps/libbracket_algorithm_traits-8b9ce5021710dc37.rlib: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs
+
+/home/ayaz/Rust-games/Rust-games/flappy_dragon/target/debug/deps/bracket_algorithm_traits-8b9ce5021710dc37.d: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs
+
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/lib.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm2d.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/algorithm3d.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.2/src/basemap.rs:
