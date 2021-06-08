@@ -1,0 +1,10 @@
+/Users/Ayaz/Documents/Courses/Hands-on Rust (The Pragmatic Programmers)/Testing/1/flappy_dragon/target/debug/deps/bracket_pathfinding-83b4beb02e579249.rmeta: /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/lib.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/astar.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/dijkstra.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/fieldofview.rs
+
+/Users/Ayaz/Documents/Courses/Hands-on Rust (The Pragmatic Programmers)/Testing/1/flappy_dragon/target/debug/deps/libbracket_pathfinding-83b4beb02e579249.rlib: /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/lib.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/astar.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/dijkstra.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/fieldofview.rs
+
+/Users/Ayaz/Documents/Courses/Hands-on Rust (The Pragmatic Programmers)/Testing/1/flappy_dragon/target/debug/deps/bracket_pathfinding-83b4beb02e579249.d: /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/lib.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/astar.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/dijkstra.rs /Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/fieldofview.rs
+
+/Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/lib.rs:
+/Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/astar.rs:
+/Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/dijkstra.rs:
+/Users/Ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-pathfinding-0.8.4/src/fieldofview.rs:
